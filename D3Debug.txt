@@ -1,0 +1,23 @@
+User defined symbols path: C:\Users\FiercePC\Desktop
+2021.03.05 20:39:43.220015300	Diablo III Release (No Assertions) running under Windows 10-64 (Version 10.0.19041)
+2021.03.05 20:39:43.225532000	<BUILD>2.6.10.73447 (134302-1683354)</BUILD>
+2021.03.05 20:39:43.230397400	Cheats: DISABLED
+2021.03.05 20:39:43.233884200	CPU Vendor: GenuineIntel
+2021.03.05 20:39:43.237145200	CPU Details: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+2021.03.05 20:39:43.240665100	CPU Processors: 1
+2021.03.05 20:39:43.244375900	CPU Cores: 4
+2021.03.05 20:39:43.248699100	CPU Threads: 8
+2021.03.05 20:39:43.252159300	16342.52 MB of total physical memory
+2021.03.05 20:39:43.255705500	OS Language: English
+2021.03.05 20:39:43.259134300	Application Path: C:\Users\FiercePC\Desktop\
+2021.03.05 20:39:43.265274400	--- OS memory stats -----
+2021.03.05 20:39:43.269512300	Virtual size: 520.00 Mb
+2021.03.05 20:39:43.273874600	Total free: 3575.00 Mb
+2021.03.05 20:39:43.308691200	Largest free block: 2032.00 Mb
+2021.03.05 20:39:43.312116800	--- OS memory stats end-----
+2021.03.05 20:39:43.315735200	--- Main memory stats ---
+2021.03.05 20:39:43.319142400	XLocalHeap 009AA8F0: Nodes used: 17, Memory used: 46433728/423624704, Wasted by nodes header: 288, Biggest contiguous free block: 377190976, Biggest contiguous allocated block: 44040192
+2021.03.05 20:39:43.322638100	XLocalHeap 09A60040: Nodes used: 147, Memory used: 15856/44040192, Wasted by nodes header: 2416, Biggest contiguous free block: 44023440, Biggest contiguous allocated block: 512
+2021.03.05 20:39:43.326197400	--- Main memory stats end ---
+2021.03.05 20:39:43.329689100	----------------------------------------------
+
